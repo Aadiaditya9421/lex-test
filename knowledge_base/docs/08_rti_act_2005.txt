@@ -1,0 +1,57 @@
+---
+title: Right to Information Act, 2005
+category: special_law
+source: Government of India — RTI Act 2005
+year: 2005
+generated_at: 2026-04-21
+word_count: 1447
+---
+
+=== RIGHT TO INFORMATION ACT, 2005 ===
+
+DEFINITIONS (S.2):
+Public authority (S.2(h)): Body constituted by Constitution, Parliament, State Legislature, or Government notification. Includes PSUs, nationalised banks, government-aided institutions, regulatory bodies (SEBI, RBI, IRDAI, TRAI).
+Information (S.2(f)): Any material in any form — records, documents, memos, emails, opinions, data in electronic form.
+Right to Information (S.2(j)): Inspection of work/documents; certified copies; certified samples; data in electronic format.
+
+HOW TO FILE AN RTI (S.6):
+Written application in English, Hindi, or official language of the area.
+No prescribed format. No need to give reason.
+Fees: Central Govt ₹10 application fee, ₹2/page copies, ₹5/hour inspection.
+BPL applicants: completely exempt from all fees (S.7(5)).
+File: in person, by post, or via RTI Online Portal (rtionline.gov.in).
+If filed with wrong authority, PIO must transfer within 5 days (S.6(3)).
+
+TIMELINES (S.7):
+Normal: 30 days from receipt.
+Life or liberty matters: 48 hours.
+Transferred applications: 35 days from original receipt.
+Deemed refusal if no response within 30 days.
+
+FIRST APPEAL (S.19(1)): To First Appellate Authority within 30 days. Decision within 30-45 days.
+SECOND APPEAL (S.19(3)): To CIC/SIC within 90 days. CIC/SIC can direct disclosure, impose penalty, recommend disciplinary action.
+
+EXEMPTIONS (S.8):
+(a) Sovereignty/security/strategic/economic interests of India.
+(b) Court-ordered prohibition or contempt of court.
+(c) Parliamentary privilege.
+(d) Commercial confidence, trade secrets, third-party IP.
+(e) Fiduciary relationship.
+(f) Information received in confidence from foreign government.
+(g) Life/physical safety endangerment.
+(h) Impedes investigation/prosecution.
+(i) Cabinet papers until decision taken.
+(j) Personal information — unwarranted invasion of privacy.
+Public interest override: S.8(2) — all exemptions can be overridden if public interest outweighs harm.
+
+PENALTIES (S.20):
+₹250/day for delay (maximum ₹25,000 per complaint).
+CIC/SIC can recommend disciplinary action against PIO.
+Burden on PIO to prove denial was justified.
+
+PRACTICAL NOTES:
+Q: Who can file an RTI? A: Any citizen of India.
+Q: Do I need to give a reason? A: No reason required.
+Q: What if PIO doesn't respond? A: Deemed refusal after 30 days — file First Appeal.
+Q: Are intelligence agencies covered? A: Exempt except for allegations of corruption or human rights violations (S.24).
+Q: Can RTI be filed online? A: Yes, at rtionline.gov.in.

@@ -1,0 +1,50 @@
+---
+title: Constitution of India — DPSP, Fundamental Duties and Key Amendments
+category: constitutional_law
+source: Government of India — Constitution of India 1950
+year: 1950
+generated_at: 2026-04-21
+word_count: 1200
+---
+
+=== DIRECTIVE PRINCIPLES OF STATE POLICY (Part IV, Art.36-51) ===
+
+DPSP are not justiciable (cannot be enforced by courts) but are fundamental in governance.
+
+Art.38: Secure social order for welfare.
+Art.39: Adequate livelihood, equal pay for equal work, no concentration of wealth.
+Art.39A: Free legal aid — Legal Services Authorities Act 1987.
+Art.40: Panchayati Raj — 73rd Amendment 1992.
+Art.41: Right to work, education, public assistance.
+Art.42: Maternity relief and humane work conditions.
+Art.44: Uniform Civil Code — currently in force only in Goa.
+Art.45: Early childhood care till age 6.
+Art.48A: Protect and improve environment (42nd Amendment) — basis for environmental laws.
+Art.50: Separation of judiciary from executive.
+Art.51: International peace and respect for international law.
+
+DPSP vs Fundamental Rights:
+Champakam Dorairajan 1951: FR prevailed over DPSP.
+Kesavananda Bharati 1973: Basic Structure doctrine — harmony between FR and DPSP.
+Minerva Mills 1980: Balance between FR and DPSP is part of basic structure.
+
+=== FUNDAMENTAL DUTIES (Art.51A, Part IVA) ===
+
+Added by 42nd Amendment 1976. 11 duties — not justiciable but courts use them to uphold laws.
+(a) Abide by Constitution (b) Cherish national struggle ideals (c) Uphold sovereignty
+(d) Defend country (e) Promote harmony (f) Value composite culture (g) Protect environment
+(h) Develop scientific temper (i) Safeguard public property (j) Strive for excellence
+(k) Provide education to children 6-14 years (86th Amendment)
+
+=== KEY AMENDMENTS ===
+
+1st (1951): 9th Schedule added.
+42nd (1976): Added Fundamental Duties; Preamble amended (Socialist, Secular, Integrity).
+44th (1978): Restored Art.19, 20, 21; removed right to property from FRs.
+52nd (1985): Anti-defection — 10th Schedule.
+61st (1988): Voting age 21→18.
+73rd/74th (1992): Mandatory Panchayati Raj and Urban Local Bodies elections.
+86th (2002): Art.21A free education; Art.51A(k) added.
+101st (2016): GST — Art.246A.
+103rd (2019): 10% EWS reservation Art.15(6), Art.16(6).
+105th (2021): States/UTs restored power to identify OBCs.

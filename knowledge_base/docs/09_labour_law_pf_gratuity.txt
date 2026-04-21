@@ -1,0 +1,55 @@
+---
+title: Labour Law — EPF Act 1952 and Payment of Gratuity Act 1972
+category: civil_law
+source: Government of India — EPF Act 1952 and Gratuity Act 1972
+year: 1952
+generated_at: 2026-04-21
+word_count: 1235
+---
+
+=== EMPLOYEES' PROVIDENT FUNDS ACT, 1952 ===
+
+Coverage (S.1): Establishments with 20 or more employees. Once covered, always covered.
+Three Schemes: EPF Scheme 1952 (retirement savings), EPS 1995 (pension), EDLI 1976 (life insurance).
+Contribution rates:
+  Employee: 12% of basic wages + DA + retaining allowance.
+  Employer: 3.67% to EPF, 8.33% to EPS (capped at ₹15,000 basis), 0.5% to EDLI, 0.5% EPF admin.
+Wage ceiling: ₹15,000/month (can voluntarily contribute above).
+UAN: Universal Account Number — portable across employers; seeded with Aadhaar.
+
+Withdrawal:
+Full withdrawal: retirement at 58, permanent disability, leaving India, 2+ months unemployment.
+Partial withdrawal: housing (after 5 yrs), marriage (after 7 yrs, 50% own share), education, medical treatment.
+
+Forms: Form 19 (EPF), Form 10C (EPS), Form 31 (partial withdrawal).
+Online claims via EPFO portal (epfindia.gov.in) — processed in 3 days (online) to 20 days (manual).
+
+=== PAYMENT OF GRATUITY ACT, 1972 ===
+
+Coverage: Factories, mines, plantations, shops, educational institutions with 10+ employees.
+Eligibility (S.4(1)): 5 years continuous service on superannuation, retirement, resignation, or termination.
+5-year condition WAIVED for death or disablement.
+
+Calculation (S.4(2)):
+Gratuity = Last drawn Basic + DA × 15/26 × Completed years of service
+(15 days wages per completed year; 26 working days per month)
+Fractions: 6+ months rounds up to 1 year; less than 6 months ignored.
+Maximum: ₹20 lakhs (Notification 2018). Government employees have no ceiling.
+
+Example: Basic+DA ₹50,000/month, 9 years service → ₹50,000 × 15/26 × 9 = ₹2,59,615
+
+Forfeiture (S.4(6)): Wholly for conviction involving moral turpitude. Partially for willful damage to property.
+Employer must pay within 30 days of determination. Delay: simple interest at bank rate.
+Non-payment: criminal offence — 6 months to 2 years imprisonment + fine.
+
+OTHER LAWS:
+Maternity Benefit Act 1961 (amended 2017): 26 weeks paid leave (first 2 children); 12 weeks for third child.
+Minimum Wages Act 1948: State-specific; revision every 5 years; non-payment is criminal offence.
+Payment of Bonus Act 1965: Minimum 8.33%, maximum 20% of salary; payable within 8 months of FY end.
+
+PRACTICAL NOTES:
+Q: What is the EPF contribution rate? A: Employee 12%, Employer split 3.67% EPF + 8.33% EPS.
+Q: When am I eligible for gratuity? A: After 5 years continuous service.
+Q: What is the maximum gratuity? A: ₹20 lakhs for private sector employees.
+Q: How is gratuity calculated? A: Last Basic+DA × 15/26 × years of service.
+Q: How many weeks maternity leave? A: 26 weeks for first two children.

@@ -1,0 +1,59 @@
+---
+title: Code of Criminal Procedure 1973 — Arrest, Bail and Trial
+category: criminal_law
+source: Government of India — Code of Criminal Procedure 1973
+year: 1973
+generated_at: 2026-04-21
+word_count: 1724
+---
+
+=== Code of Criminal Procedure (CrPC) 1973 ===
+
+--- ARREST (S.41-60)
+
+S.41: Police can arrest without warrant if person has been concerned in a cognizable offence, is a proclaimed offender, or likely to abscond.
+S.41A: Notice to appear (2009 amendment — Arnesh Kumar guidelines 2014 SC). Police must justify necessity of arrest.
+S.41B: Arresting officer must identify themselves — name and designation communicated to arrestee.
+S.41D: Right to meet advocate during interrogation.
+S.46: No more restraint than necessary. Woman arrested only by woman officer; after sunset only with magistrate permission.
+S.49: No unnecessary restraint during arrest.
+S.50: Grounds of arrest must be communicated immediately. Right to bail in bailable offence.
+S.50A: Person arrested may inform nominated person (2008 amendment).
+S.54: Medical examination of arrested person on request.
+S.57: Cannot be detained beyond 24 hours without magistrate order.
+S.167: Remand procedure — produce before magistrate within 24 hours. Default bail (S.167(2)) if chargesheet not filed within 60 days (magistrate triable) or 90 days (sessions triable).
+
+--- BAIL (S.436-450)
+
+S.436: Bailable offences — bail is a right. Police or court MUST grant bail.
+S.436A: Bail after serving half the maximum sentence period in detention (without conviction).
+S.437: Non-bailable offences — court's discretion. Factors: gravity of offence, antecedents, flight risk, evidence tampering risk. Special provisions for women, children under 16, sick/infirm.
+S.437A: Bail on conclusion of trial — pending appeal to higher court.
+S.438: Anticipatory bail — apply to Sessions Court or High Court before arrest. Cannot be time-limited per Supreme Court (Sushila Aggarwal 2020).
+S.439: High Court / Sessions Court special powers — can grant or cancel bail.
+
+--- FIR AND INVESTIGATION (S.154-176)
+
+S.154: FIR must be recorded in writing, read to informant, signed. Zero FIR — can be filed at any police station. If officer refuses, complainant may send written complaint to SP (S.154(3)).
+S.155: Non-cognizable offences — police need magistrate order to investigate.
+S.173: Chargesheet (police report) — within 60 days (magistrate triable) or 90 days (sessions triable).
+
+--- TRIAL PROCEDURE
+
+S.190-204: Magistrate takes cognizance of offences; issues process.
+S.225-250: Sessions trial — charge (S.228), defence (S.233), judgment (S.235).
+S.300: Double jeopardy — once acquitted or convicted, cannot be tried for same offence.
+S.313: Accused must be given opportunity to explain evidence against them.
+
+BAIL TYPE COMPARISON:
+Regular Bail: for person already in custody.
+Anticipatory Bail: before arrest; granted under S.438.
+Interim Bail: temporary until final disposal.
+Default Bail: when chargesheet not filed within 60/90 days.
+
+PRACTICAL NOTES:
+Q: Is bail a right in a bailable offence? A: Yes — S.436 mandates it.
+Q: Can a woman be arrested at night? A: Only by a woman officer, only with magistrate permission.
+Q: What is a Zero FIR? A: FIR filed at any station regardless of territorial jurisdiction.
+Q: What is default bail? A: Bail when police fail to file chargesheet within 60/90 days.
+Q: Can anticipatory bail be cancelled? A: Yes, by HC or Sessions Court on application.

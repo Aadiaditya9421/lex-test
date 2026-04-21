@@ -1,0 +1,44 @@
+---
+title: Information Technology Act 2000 — Cyber Offences
+category: special_law
+source: Government of India — IT Act 2000
+year: 2000
+generated_at: 2026-04-21
+word_count: 1200
+---
+
+=== INFORMATION TECHNOLOGY ACT, 2000 ===
+
+CIVIL PENALTIES (S.43-43A):
+S.43: Up to ₹1 crore for unauthorised computer access, downloading without permission, introducing virus, damaging data, disrupting computer systems.
+S.43A: Body corporate negligent in maintaining security of sensitive personal data — liable to pay compensation (no cap).
+
+CYBER OFFENCES:
+S.65: Tampering with computer source code — 3 years imprisonment + ₹2 lakhs fine.
+S.66: Computer-related offences (dishonest/fraudulent) — 3 years + ₹5 lakhs.
+S.66A: Sending offensive messages — STRUCK DOWN by Supreme Court in Shreya Singhal v. UOI 2015 (unconstitutional — violated Art.19(1)(a)).
+S.66B: Receiving stolen computer resources — 3 years + ₹1 lakh.
+S.66C: Identity theft — 3 years + ₹1 lakh. Includes SIM swapping.
+S.66D: Cheating by personation using computer (phishing, fake websites) — 3 years + ₹1 lakh.
+S.66E: Violation of privacy — capturing/publishing private images without consent — 3 years + ₹2 lakhs.
+S.66F: Cyber terrorism — LIFE IMPRISONMENT. Cognizable, non-bailable.
+S.67: Publishing obscene material in electronic form — 3 years first, 5 years repeat.
+S.67A: Sexually explicit material — 5 years first, 7 years repeat.
+S.67B: Child sexual abuse material (CSAM) — 5 years first, 7 years repeat + ₹10 lakhs. Possession punishable.
+S.70: Unauthorised access to protected critical infrastructure (power grids, financial systems) — 10 years.
+S.72: Breach of confidentiality by intermediaries — 2 years + ₹1 lakh.
+
+INTERMEDIARY LIABILITY (S.79):
+Safe harbour: not liable if does not initiate, select or modify content and observes due diligence.
+Safe harbour LOST when intermediary has actual knowledge of unlawful content and fails to remove it.
+IT Rules 2021: Significant Social Media Intermediaries (5 million+ users) must appoint Grievance Officer (India-based, respond in 24 hours, resolve in 15 days).
+
+DATA PROTECTION:
+IT (SPDI Rules 2011): Consent required before collecting sensitive personal data (passwords, financial info, health, biometric).
+Digital Personal Data Protection Act 2023 (DPDPA): Replaces SPDI rules. Data Protection Board established. Penalties up to ₹250 crore.
+
+PRACTICAL NOTES:
+Q: What is cyber terrorism under IT Act? A: S.66F — acts threatening India's unity/integrity through computer means; life imprisonment.
+Q: Is sending offensive messages online illegal? A: S.66A was struck down in 2015. Other sections (66C, 66D, 66E) still apply.
+Q: What is identity theft online? A: S.66C — using another's electronic signature, password, unique ID dishonestly.
+Q: Are companies liable for data breaches? A: Yes under S.43A if negligent in maintaining reasonable security.

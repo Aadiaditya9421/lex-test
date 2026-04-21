@@ -1,0 +1,53 @@
+---
+title: Consumer Protection Act, 2019
+category: civil_law
+source: Government of India — Consumer Protection Act 2019
+year: 2019
+generated_at: 2026-04-21
+word_count: 999
+---
+
+=== CONSUMER PROTECTION ACT, 2019 ===
+
+DEFINITIONS (S.2):
+Consumer (S.2(7)): Person who buys goods or hires services for consideration; NOT for resale or commercial purpose. Includes online purchases.
+Defect (S.2(10)): Any fault in quality, quantity, potency, purity or standard of goods.
+Deficiency (S.2(11)): Any fault or shortcoming in the manner of performance of a service.
+Unfair trade practice (S.2(47)): False representation, misleading advertisements, deceptive packaging.
+
+Six Consumer Rights (S.2(9)):
+1. Right to safety from hazardous goods/services.
+2. Right to information about quality, quantity, price.
+3. Right to choice among competitive goods at competitive prices.
+4. Right to be heard in consumer forums.
+5. Right to seek redress against unfair practices.
+6. Right to consumer education.
+
+CENTRAL CONSUMER PROTECTION AUTHORITY (CCPA) S.10-27:
+Regulates unfair trade practices and misleading ads. Powers: recall products, discontinue practices, impose penalties, file class complaints.
+Penalty for misleading ads: up to ₹10 lakhs first offence, ₹50 lakhs repeat.
+Celebrity endorsers also held liable (S.21).
+
+CONSUMER DISPUTES REDRESSAL COMMISSIONS (S.28-58):
+District Commission: claims up to ₹1 crore.
+State Commission: claims ₹1 crore to ₹10 crore; appellate over District.
+National Commission: claims above ₹10 crore; appellate over State.
+File online: e-daakhil portal (edaakhil.nic.in).
+Fees: ₹100-2000; nil for BPL cardholders.
+Limitation: 2 years from cause of action (delay can be condoned).
+Relief: replacement, repair, refund, compensation, punitive damages.
+
+PRODUCT LIABILITY (S.82-87):
+Manufacturer liable for: manufacturing defect, design defect, non-conformity with express warranty.
+Service provider liable for deficient service.
+Seller liable if product altered without reasonable care.
+
+E-COMMERCE RULES 2020:
+Mandatory: seller name, address, customer care contact. Grievance Officer must respond in 48 hours.
+Prohibited: fake reviews, preferential listing without disclosure, discriminatory pricing based on user profiling.
+
+PRACTICAL NOTES:
+Q: Where do I file a consumer complaint? A: District Commission for claims up to ₹1 crore; online via edaakhil.nic.in.
+Q: What is the time limit to file? A: 2 years from cause of action.
+Q: Can I appeal a District Commission order? A: Yes, to State Commission within 45 days.
+Q: Is there a fee to file? A: ₹100-2000; BPL cardholders exempt.

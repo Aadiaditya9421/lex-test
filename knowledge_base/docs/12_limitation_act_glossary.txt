@@ -1,0 +1,72 @@
+---
+title: Limitation Act 1963 and Legal Glossary
+category: reference
+source: Government of India — Limitation Act 1963
+year: 1963
+generated_at: 2026-04-21
+word_count: 1100
+---
+
+=== LIMITATION ACT, 1963 ===
+
+S.3: Bar of limitation — every suit/appeal/application filed after prescribed period shall be dismissed even if limitation not raised by defendant.
+S.4: If prescribed period expires on court holiday, it extends to next working day.
+S.5: Condonation of delay — court may condone delay for appeals and applications (not suits) if sufficient cause shown.
+S.6: Legal disability (minor, insane) — time runs from cessation of disability.
+S.17: Fraud or mistake — limitation runs from discovery of fraud/mistake.
+S.18: Fresh period from date of signed acknowledgement of liability.
+S.19: Fresh period from date of part payment towards debt.
+
+KEY LIMITATION PERIODS:
+Money due on contract: 3 years.
+Recovery of immoveable property: 12 years.
+Execution of decree: 12 years.
+Compensation for personal injury: 3 years.
+Compensation for libel/slander: 1 year.
+Consumer complaint (CP Act 2019): 2 years.
+High Court appeal from District Court: 90 days.
+First civil appeal: 30 days from decree.
+
+Criminal limitation (CrPC S.468):
+Fine only offence: 6 months.
+Up to 1 year imprisonment: 1 year.
+Up to 3 years imprisonment: 3 years.
+Above 3 years: no bar on cognizance.
+
+=== LEGAL GLOSSARY ===
+
+Accused: Person charged with a criminal offence; not yet convicted.
+Acquittal: Court's finding that accused is not guilty; bars re-trial for same offence.
+Affidavit: Written statement of facts sworn before an oath commissioner.
+Anticipatory Bail: Bail obtained before arrest under CrPC S.438.
+Bail: Temporary release of accused from custody on furnishing security.
+Bailable Offence: Offence where bail is a right (listed as bailable in 1st Schedule CrPC).
+Cause of Action: Facts giving rise to legal right to sue; determines limitation period.
+Cognizable Offence: Offence where police can arrest without warrant.
+Compoundable Offence: Offence that can be settled between parties (S.320 CrPC).
+Conviction: Court's finding that accused is guilty.
+Default Bail: Bail under CrPC S.167(2) when chargesheet not filed in time.
+Double Jeopardy: Cannot be tried twice for same offence (Art.20, CrPC S.300).
+Ex Parte: Order passed in absence of one party.
+FIR (First Information Report): Information given to police about cognizable offence (CrPC S.154).
+Grievous Hurt: Eight categories under IPC S.320 — fractures, permanent loss of limb/organ, etc.
+Habeas Corpus: Writ directing production of detained person before court.
+Injunction: Court order to do or refrain from doing an act.
+Jurisdiction: Court's authority to hear — territorial, pecuniary, subject matter.
+Magistrate: Judicial officer who tries petty cases; commits serious cases to Sessions Court.
+Mandamus: Writ commanding public authority to perform public duty.
+Mens Rea: Criminal intention; required for most offences.
+Non-Bailable Offence: Offence where bail is discretionary, not a right.
+Non-Cognizable Offence: Police need magistrate's order to arrest.
+Prima Facie: On first appearance — sufficient evidence to proceed.
+Remand: Sending accused into custody by Magistrate pending investigation.
+Sessions Court: Principal criminal court of a district.
+Suo Motu: Court takes action on its own motion without application.
+Writ: Written order by High Court (Art.226) or Supreme Court (Art.32).
+Zero FIR: FIR filed at any police station regardless of territorial jurisdiction; transferred afterwards.
+
+PRACTICAL NOTES:
+Q: What is the limitation period for filing a money recovery suit? A: 3 years.
+Q: Can delay be condoned for suits? A: No — S.5 applies only to appeals and applications.
+Q: What is the limitation for a consumer complaint? A: 2 years from cause of action.
+Q: What is a Zero FIR? A: FIR filed at any station; must be transferred to jurisdictional station.

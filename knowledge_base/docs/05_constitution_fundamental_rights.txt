@@ -1,0 +1,58 @@
+---
+title: Constitution of India — Fundamental Rights (Articles 12-35)
+category: constitutional_law
+source: Government of India — Constitution of India 1950
+year: 1950
+generated_at: 2026-04-21
+word_count: 1405
+---
+
+=== Fundamental Rights — Constitution of India (Part III, Articles 12-35) ===
+
+Art.12: Definition of State — includes Central and State Governments, Parliament, State Legislatures, local authorities, and other authorities (Ajay Hasia test for instrumentality of State).
+
+Art.13: Any law inconsistent with Fundamental Rights is void to the extent of inconsistency. Includes ordinances, bylaws, customs.
+
+Art.14: Right to Equality — equality before law AND equal protection of laws. Reasonable classification test: intelligible differentia + rational nexus.
+
+Art.15: No discrimination on grounds of religion, race, caste, sex, place of birth. Art.15(3): special provision for women and children. Art.15(6): 10% EWS reservation (103rd Amendment 2019).
+
+Art.16: Equality of opportunity in public employment. Art.16(4): reservations for backward classes. Art.16(4A): reservations in promotion for SC/ST.
+
+Art.17: Abolition of untouchability — punishable offence under Protection of Civil Rights Act 1955.
+
+Art.18: Abolition of titles. Bharat Ratna and Padma awards upheld by Supreme Court.
+
+Art.19: Six Freedoms:
+(a) Speech and expression
+(b) Peaceful assembly without arms
+(c) Form associations or unions
+(d) Move freely throughout India
+(e) Reside and settle anywhere in India
+(g) Practise any profession or carry on any trade
+Subject to reasonable restrictions under Art.19(2)-(6).
+
+Art.20: Protection in respect of conviction — no ex post facto law, no double jeopardy, no self-incrimination.
+
+Art.21: Protection of life and personal liberty. Expanded by courts to include right to privacy (K.S. Puttaswamy 2017), health, livelihood, speedy trial, legal aid.
+
+Art.21A: Free and compulsory education for children 6-14 years (86th Amendment 2002). Implemented through Right to Education Act 2009.
+
+Art.22: Protection against arbitrary arrest — inform grounds immediately, right to consult advocate, produce before magistrate within 24 hours.
+
+Art.23: Prohibition of trafficking in human beings, begar, forced labour. Bonded Labour System (Abolition) Act 1976.
+
+Art.24: No child below 14 in factories, mines, or hazardous employment.
+
+Art.25-28: Freedom of conscience and religion; manage religious affairs; no religious tax; no religious instruction in state educational institutions.
+
+Art.29-30: Minorities' rights to conserve language, script, culture. Right to establish and administer educational institutions.
+
+Art.32: Right to constitutional remedies — Dr Ambedkar called this the heart and soul of the Constitution.
+Five Writs: Habeas Corpus (produce detained person), Mandamus (command public duty), Prohibition (stop inferior court exceeding jurisdiction), Certiorari (quash order), Quo Warranto (by what authority held).
+
+PRACTICAL NOTES:
+Q: What is Article 21? A: Right to life and personal liberty — the most expansive FR.
+Q: Can freedom of speech be restricted? A: Yes, on grounds in Art.19(2) including public order, defamation.
+Q: What writ challenges illegal detention? A: Habeas Corpus.
+Q: At what age does right to free education apply? A: 6 to 14 years under Art.21A.

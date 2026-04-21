@@ -1,0 +1,63 @@
+---
+title: Protection of Women from Domestic Violence Act 2005 and POCSO Act 2012
+category: special_law
+source: Government of India — PWDVA 2005 and POCSO 2012
+year: 2005
+generated_at: 2026-04-21
+word_count: 1100
+---
+
+=== PROTECTION OF WOMEN FROM DOMESTIC VIOLENCE ACT, 2005 (PWDVA) ===
+
+Aggrieved person (S.2(a)): Any woman in or having been in a domestic relationship, alleging domestic violence.
+Domestic relationship (S.2(f)): Persons living/having lived together — related by consanguinity, marriage, adoption, or joint family. INCLUDES live-in relationships (D. Velusamy v. D. Patchaiammal SC 2010).
+Respondent: Can be adult male member OR female relative of husband (SC ruling — mother-in-law, sister-in-law).
+
+DOMESTIC VIOLENCE (S.3):
+Physical abuse: hitting, slapping, kicking, burning.
+Sexual abuse: forced intercourse, unwanted sexual acts.
+Verbal and emotional abuse: insults, threats, humiliation about dowry.
+Economic abuse: depriving financial resources, preventing employment, disposing assets.
+
+ORDERS AVAILABLE:
+S.18 Protection Order: prohibit respondent from committing DV; entering workplace or school.
+S.19 Residence Order: respondent not to dispossess aggrieved from shared household.
+S.20 Monetary Relief: maintenance, medical expenses, loss of earnings. In addition to CrPC S.125.
+S.21 Custody Order: temporary custody of children.
+S.22 Compensation Order: for mental torture, emotional distress, injuries.
+S.23 Interim Orders: ex parte orders on affidavit for urgent relief.
+
+PROCEDURE:
+Application: by aggrieved person, Protection Officer, or any person on her behalf. NO FIR needed.
+First hearing: within 3 days (S.12(4)). Disposal: within 60 days.
+Breach of protection order (S.31): cognizable, non-bailable offence — up to 1 year + ₹20,000 fine.
+
+COMPARISON WITH IPC S.498A:
+IPC S.498A: criminal conviction possible; 3 years; cognizable, non-bailable.
+PWDVA: civil remedy; results in protection/residence/maintenance orders; no criminal conviction.
+Both can be used simultaneously.
+
+=== PROTECTION OF CHILDREN FROM SEXUAL OFFENCES ACT, 2012 (POCSO) ===
+
+Scope: Protects all children below 18 years (gender neutral for victims).
+
+OFFENCES AND PUNISHMENTS:
+S.3-4: Penetrative sexual assault — minimum 10 years RI, maximum life + fine.
+S.5-6: Aggravated penetrative sexual assault (by police officer, teacher, relative, on child below 12) — minimum 20 years to life or death (child below 12 — 2019 amendment).
+S.7-8: Sexual assault (non-penetrative) — minimum 3 years, maximum 5 years.
+S.11-12: Sexual harassment (gestures, words, showing pornography) — up to 3 years.
+S.13-15: Child pornography — up to 5 years; storage for commercial purpose punishable.
+
+PROTECTIVE PROVISIONS:
+S.19: Mandatory reporting — any person knowing of offence MUST report. Failure: up to 6 months.
+S.23: Media prohibited from disclosing identity of child victim.
+S.26: Child-friendly procedure — statement at child's residence; no repeat questioning.
+S.28: Special Courts in every district for POCSO trials.
+S.29: Presumption — if assault proved, court presumes it was without consent; burden shifts to accused.
+S.35: Trial must complete within 1 year of taking cognizance.
+
+PRACTICAL NOTES:
+Q: What is domestic violence under PWDVA? A: Physical, sexual, verbal/emotional, and economic abuse.
+Q: Can I file PWDVA without an FIR? A: Yes — PWDVA is a civil remedy.
+Q: Who must report POCSO offences? A: Anyone with knowledge of the offence.
+Q: What is the minimum punishment for penetrative sexual assault on a child? A: 10 years RI.
