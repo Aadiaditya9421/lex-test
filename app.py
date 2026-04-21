@@ -10,6 +10,15 @@ STREAMLIT CLOUD FIX:
 
 import os
 import streamlit as st
+
+# ── Streamlit Cloud: redirect caches to /tmp ──────────────────────────────────
+# Streamlit Cloud's home dir is read-only; /tmp is writable and persists for
+# the lifetime of the running container. We must set these BEFORE importing
+# anything that might load config.py or transformers.
+os.environ.setdefault("SENTENCE_TRANSFORMERS_HOME", "/tmp/st_cache")
+os.environ.setdefault("TRANSFORMERS_CACHE", "/tmp/hf_cache")
+os.environ.setdefault("CHROMA_PERSIST_DIR", "/tmp/chroma_store")
+
 import uuid
 from graph.graph import build_graph
 
@@ -21,11 +30,7 @@ st.set_page_config(
 )
 
 
-# ── Streamlit Cloud: redirect caches to /tmp ──────────────────────────────────
-# Streamlit Cloud's home dir is read-only; /tmp is writable and persists for
-# the lifetime of the running container (but NOT across cold restarts).
-os.environ.setdefault("SENTENCE_TRANSFORMERS_HOME", "/tmp/st_cache")
-os.environ.setdefault("TRANSFORMERS_CACHE", "/tmp/hf_cache")
+# ── Streamlit Cloud caching was moved to top of file ──────────────────────────
 
 
 # ── Cache expensive resources ─────────────────────────────────────────────────
@@ -39,11 +44,6 @@ def init_knowledge_base():
     page interaction.
     """
     from knowledge_base.ingest import build_vectorstore
-    # Point ChromaDB to /tmp so it is writable on Streamlit Cloud.
-    # We override config at runtime; the Config dataclass reads this env var
-    # if set before import.  If already built from a prior warm session it
-    # returns immediately (count-check inside build_vectorstore).
-    os.environ.setdefault("CHROMA_PERSIST_DIR", "/tmp/chroma_store")
     build_vectorstore()
 
 

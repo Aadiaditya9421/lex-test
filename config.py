@@ -34,7 +34,9 @@ class Config:
     embed_model: str = "sentence-transformers/all-MiniLM-L6-v2"
 
     # ── ChromaDB ──────────────────────────────────────────────────────────────
-    chroma_persist_dir: str = str(_ROOT / "chroma_store")
+    chroma_persist_dir: str = field(
+        default_factory=lambda: os.getenv("CHROMA_PERSIST_DIR", str(_ROOT / "chroma_store"))
+    )
     collection_name: str = "legal_docs"
     retrieval_k: int = 6
     mmr_fetch_k: int = 12

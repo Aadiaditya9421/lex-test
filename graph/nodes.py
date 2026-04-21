@@ -199,7 +199,11 @@ def tool_node(state: AgentState) -> dict:
         # Signal graph to fall back to RAG
         return {"tool_result": None}
 
-    return {"tool_result": tool_result, "answer": tool_result, "sources": []}
+    return {
+        "tool_result": tool_result,
+        "context": tool_result,
+        "sources": [{"title": "Quick Lookup Tool", "source": "System Database"}],
+    }
 
 
 def answer_node(state: AgentState) -> dict:
@@ -218,14 +222,16 @@ def answer_node(state: AgentState) -> dict:
             "confidence": 1.0,
         }
 
-    # Tool path — answer already set by tool_node
-    if state.get("tool_result"):
-        return {}
+    # Pass tool results directly into the context pipeline to generate detailed answers
+    # instead of returning the raw tool string.
 
     system = """You are an expert Legal Assistant specialising in Indian Law.
-Your ONLY directive is to answer the user's query using the provided context.
-- Cite the relevant IPC/CrPC/Article section numbers mentioned in the context.
-- If the context does not contain the answer, respond EXACTLY with:
+Your goal is to provide a comprehensive, well-researched, and easy-to-understand explanation based ONLY on the provided context.
+- Be highly descriptive, conversational, yet authoritative. Write like a professional legal researcher explaining the law to a client.
+- Provide step-by-step explanations, breaking down complex legal topics and implications clearly.
+- MUST EXPLICITLY CITE the exact Acts, Chapter names, Sections, and Articles mentioned in the context.
+- Don't just list the rules; explain what they mean in practical terms based on the context.
+- If the context does not contain the answer, do not attempt to guess. Respond EXACTLY with:
   'I do not have sufficient information to answer that based on the legal documents available to me.'
 - ALWAYS end your response with a newline then: 'Consult a qualified lawyer for advice specific to your situation.'"""
 
@@ -286,7 +292,14 @@ Return ONLY the float value — no other text."""
             "context": state.get("context", ""),
             "answer": state.get("answer", ""),
         })
-        score = float(result.content.strip())
+        content = result.content.strip()
+        import re
+        # Look for the first 0.0 to 1.0 or 0/1
+        match = re.search(r'(0\.\d+|1\.0|1|0)', content)
+        if match:
+            score = float(match.group(1))
+        else:
+            score = 0.0
     except Exception:
         score = 0.0
 
